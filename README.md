@@ -7,6 +7,7 @@ beep bepp (beep beep)a hardware alarm device that was done under stardance proje
 * push buttons (specifically 4) - got it from grab CAD. (kalia polih buttons)
 * has four mounting holes at the corner. 
 * TFT display
+# .
 **** softwares used
   kiCAD - for designing the pcb and schematic layout for the circuit board to work
   onshape - for designing the case for the alarm
