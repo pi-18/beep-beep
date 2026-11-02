@@ -15,11 +15,15 @@
   
 * onshape - for designing the case for the alarm
 
-# beep beep 
+# beep beep project case 
 
   <img width="1099" height="537" alt="Screenshot 2026-10-31 001146" src="https://github.com/user-attachments/assets/cf062047-4596-4e7c-a2aa-a72b9d3602e1" />
 
+  # beep beep KiCAD schematic design
+
   <img width="877" height="452" alt="Screenshot 2026-11-02 224631" src="https://github.com/user-attachments/assets/f01d4be4-366e-452f-96e3-981e4561a225" />
+
+  # beep beep KiCAD PCB design
 
   <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" />
 
