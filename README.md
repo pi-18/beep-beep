@@ -1,7 +1,6 @@
 
-# beep-bepp
-(the name was actually beep beep. since this is submitted to stardance, lets roll with the imperfection)
-beep bepp (beep beep)a hardware alarm device that was done under stardance projects.
+# beep-beep
+ beep beep is a hardware alarm device that was done under stardance hackclub program. It is under the mission BLARE where this project was carried out.
 # components used 
 * XIAO ESP 32-C3 microcontroller (can be found at seeed website)
 * buzzer
