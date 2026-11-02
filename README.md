@@ -24,6 +24,10 @@
 
   # beep beep KiCAD PCB design
 
+  <img width="912" height="503" alt="Screenshot 2026-11-03 011415" src="https://github.com/user-attachments/assets/4e333c0d-3ab1-47a0-8d68-9f12d8c22f60" />
+
+ # a 3d view of the PCB 
+ 
   <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" />
 
   # BOM
