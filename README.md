@@ -1,6 +1,6 @@
 
 # Beep-Beep
- beep beep is a hardware alarm device that was done under stardance hackclub program. It is under the mission BLARE where this project was carried out.
+ beep beep is a hardware alarm device that was done under stardance hackclub program. It is under the mission BLARE where this project was carried out. The initials on it (pi) refers to myself and is my nick name. I made it pink since i think pink colored things are pretty. if the alarm is pretty enough i will obey the sound in the morning. lol
 # components used 
 * XIAO ESP 32-C3 microcontroller (can be found at seeed website)
 * buzzer
