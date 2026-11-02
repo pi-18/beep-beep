@@ -1,13 +1,12 @@
 
-# beep-beep
+# Beep-Beep
  beep beep is a hardware alarm device that was done under stardance hackclub program. It is under the mission BLARE where this project was carried out.
 # components used 
 * XIAO ESP 32-C3 microcontroller (can be found at seeed website)
 * buzzer
-* push buttons (specifically 4) - got it from grab CAD. (kalia polih buttons)
+* switch buttons (specifically 4) - got it from grab CAD. (kalia polih buttons)
 * has four mounting holes at the corner. 
 * TFT display
-* 
 # .
 **** softwares used
   
