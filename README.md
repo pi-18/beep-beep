@@ -21,6 +21,8 @@ beep bepp (beep beep)a hardware alarm device that was done under stardance proje
 
   <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" />
 
+  * this will be the BOM(bill of materials) which contains devices used
+
   <img width="1186" height="97" alt="Screenshot 2026-11-02 225942" src="https://github.com/user-attachments/assets/75c67c80-5b10-406e-9e62-799b04e0c7b0" />
 
   <img width="815" height="452" alt="Screenshot 2026-11-02 230343" src="https://github.com/user-attachments/assets/d2c7af92-9b4e-4e7d-a22e-cafd4c62da84" />
