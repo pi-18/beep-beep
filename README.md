@@ -1,4 +1,4 @@
-<img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/c68f9342-3ee8-4e1e-8416-ea12f464bc8d" />
+
 # beep-bepp
 (the name was actually beep beep. since this is submitted to stardance, lets roll with the imperfection)
 beep bepp (beep beep)a hardware alarm device that was done under stardance projects.
