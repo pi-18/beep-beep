@@ -1,0 +1,28 @@
+Drill report for beep beep.kicad_pcb
+Created on 2026-11-03T07:00:47
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'beep beep-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (1 hole)
+    T2  0.889mm  0.0350"  (14 holes))
+    T3  1.000mm  0.0394"  (10 holes))
+    T4  1.500mm  0.0591"  (8 holes))
+
+    Total plated holes count 33
+
+
+Drill file 'beep beep-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  1.700mm  0.0669"  (8 holes))
+    T2  3.200mm  0.1260"  (4 holes))
+    T3  4.000mm  0.1575"  (4 holes))
+
+    Total unplated holes count 16
