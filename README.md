@@ -13,11 +13,13 @@
  * kiCAD - for designing the pcb and schematic layout for the circuit board to work
   
 * onshape - for designing the case for the alarm
-
+<td>
 # beep beep project case 
 
-  <img width="1099" height="537" alt="Screenshot 2026-10-31 001146" src="https://github.com/user-attachments/assets/cf062047-4596-4e7c-a2aa-a72b9d3602e1" />
+  <img width="538" height="312" alt="Screenshot 2026-11-03 080142" src="https://github.com/user-attachments/assets/e9075b57-1555-46b2-9a3c-1bd9f91c733e" />
+  <img width="413" height="353" alt="Screenshot 2026-11-03 080201" src="https://github.com/user-attachments/assets/996fc40d-7975-42af-94d2-2497b5aad4fc" />
 
+</td>
   # beep beep KiCAD schematic design
 
   <img width="877" height="452" alt="Screenshot 2026-11-02 224631" src="https://github.com/user-attachments/assets/f01d4be4-366e-452f-96e3-981e4561a225" />
