@@ -14,8 +14,8 @@
   
 * onshape - for designing the case for the alarm
 
-
-<th> # beep beep project case </th>
+<table>
+ # beep beep project case 
 
 <tr>
  
@@ -26,6 +26,8 @@
   <img width="413" height="353" alt="Screenshot 2026-11-03 080201" src="https://github.com/user-attachments/assets/996fc40d-7975-42af-94d2-2497b5aad4fc" />  </td>
 
 </tr>
+
+</table>
 
   # beep beep KiCAD schematic design
 <td>
