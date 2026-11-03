@@ -50,9 +50,9 @@
    
  # a 3d view of the PCB 
  <tr>
-  <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" />
+   <td> <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" /> </td>
 
-  <img width="1068" height="602" alt="beep beep 3d view" src="https://github.com/user-attachments/assets/11ef3907-c75b-4cfe-a6ad-fff98429732d" />
+ <td> <img width="1068" height="602" alt="beep beep 3d view" src="https://github.com/user-attachments/assets/11ef3907-c75b-4cfe-a6ad-fff98429732d" /> </td>
 </tr>
 </table>
 
