@@ -15,13 +15,17 @@
 * onshape - for designing the case for the alarm
 
 
-# beep beep project case 
-<td>
-  <img width="538" height="312" alt="Screenshot 2026-11-03 080142" src="https://github.com/user-attachments/assets/e9075b57-1555-46b2-9a3c-1bd9f91c733e" />
-  
-  <img width="413" height="353" alt="Screenshot 2026-11-03 080201" src="https://github.com/user-attachments/assets/996fc40d-7975-42af-94d2-2497b5aad4fc" />
+<th> # beep beep project case </th>
 
-</td>
+<tr>
+ 
+<td>
+  <img width="538" height="312" alt="Screenshot 2026-11-03 080142" src="https://github.com/user-attachments/assets/e9075b57-1555-46b2-9a3c-1bd9f91c733e" /> </td>
+
+  <td>
+  <img width="413" height="353" alt="Screenshot 2026-11-03 080201" src="https://github.com/user-attachments/assets/996fc40d-7975-42af-94d2-2497b5aad4fc" />  </td>
+
+</tr>
 
   # beep beep KiCAD schematic design
 <td>
@@ -35,7 +39,11 @@
 
  # a 3d view of the PCB 
  <td>
+  
   <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" />
+
+  <img width="1068" height="602" alt="beep beep 3d view" src="https://github.com/user-attachments/assets/11ef3907-c75b-4cfe-a6ad-fff98429732d" />
+
 </td>
 
   # BOM
