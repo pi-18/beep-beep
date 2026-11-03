@@ -14,9 +14,9 @@
   
 * onshape - for designing the case for the alarm
 
-<td>
-# beep beep project case 
 
+# beep beep project case 
+<td>
   <img width="538" height="312" alt="Screenshot 2026-11-03 080142" src="https://github.com/user-attachments/assets/e9075b57-1555-46b2-9a3c-1bd9f91c733e" />
   
   <img width="413" height="353" alt="Screenshot 2026-11-03 080201" src="https://github.com/user-attachments/assets/996fc40d-7975-42af-94d2-2497b5aad4fc" />
