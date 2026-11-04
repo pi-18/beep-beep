@@ -1,12 +1,12 @@
 
 # Beep-Beep
  beep beep is a hardware alarm device that was done under stardance hackclub program. This alarm is done using the guide of BLARE alarm mission in stardance and got designed with pink and white colors and have an initial of pi on the case. 
-# components used 
-* XIAO ESP 32-C3 microcontroller (can be found at seeed website)
-* buzzer
-* switch buttons (specifically 4) - got it from grab CAD. (kalia polih buttons)
-* has four mounting holes at the corner. 
-* TFT display
+
+# Features 
+
+* Digital display
+* control - has four switch buttons
+
 # softwares used
   
  * kiCAD - for designing the pcb and schematic layout for the circuit board to work
@@ -59,6 +59,15 @@
 
   * This section shows what parts i used for the beep beep alarm project.
   [beep beep BOM.csv](https://github.com/user-attachments/files/34293268/beep.beep.BOM.csv)
+
+* 1x custom made circuit board
+* 1x XIAO ESP32-C3-SMD micro controller
+* 1x buzzer
+* 4x keyboard switches
+* 1x 8 pin connector
+* 4x mounting holes on the circuit board
+* 1x 2.25in TFT display
+* custom case
 
 <table>
  
