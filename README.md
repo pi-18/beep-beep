@@ -60,13 +60,6 @@
   * This section shows what parts i used for the beep beep alarm project.
   [beep beep BOM.csv](https://github.com/user-attachments/files/34293268/beep.beep.BOM.csv)
 
-
-  "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"BZ1","1","Buzzer","","","","","${EXCLUDE_FROM_POS_FILES}","Buzzer_Beeper:Buzzer_12x9.5RM7.6",""
-"J1","1","Conn_01x08_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical",""
-"SW1,SW2,SW3,SW4","4","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","XIAO-ESP32-C3-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Seeed Studio XIAO Series Library:XIAO-ESP32-C3-DIP",""
-
 <table>
  
   # The final clock look 
