@@ -61,8 +61,8 @@
 
   This section shows what parts i used for the beep beep alarm project.
 
- * [beep beep KiCAD..xlsx](https://github.com/user-attachments/files/34412271/beep.beep.KiCAD.xlsx)
- * [beep beep components..xlsx](https://github.com/user-attachments/files/34412295/beep.beep.components.xlsx)
+ // [beep beep KiCAD..xlsx](https://github.com/user-attachments/files/34412271/beep.beep.KiCAD.xlsx)
+ // [beep beep components..xlsx](https://github.com/user-attachments/files/34412295/beep.beep.components.xlsx)
 
 * 1x custom made circuit board
 * 1x XIAO ESP32-C3-SMD micro controller
