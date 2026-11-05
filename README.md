@@ -58,7 +58,6 @@
   # BOM
 
   This section shows what parts i used for the beep beep alarm project.
-  [beep beep BOM.csv](https://github.com/user-attachments/files/34293268/beep.beep.BOM.csv)
 
 * 1x custom made circuit board
 * 1x XIAO ESP32-C3-SMD micro controller
