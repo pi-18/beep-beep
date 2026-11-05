@@ -2354,7 +2354,7 @@
 			(uuid "dc6ade19-2e50-49b5-922f-5ced3b86ccd1")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR06")
 					(unit 1)
@@ -2432,7 +2432,7 @@
 			(uuid "16a06fb1-233d-4f9e-b9ff-63303747398b")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR04")
 					(unit 1)
@@ -2510,7 +2510,7 @@
 			(uuid "76d60cd9-d347-4539-aa4e-77c09d0bde15")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR05")
 					(unit 1)
@@ -2588,7 +2588,7 @@
 			(uuid "8adf0ad2-679a-40a1-9b82-249f84b767e5")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR03")
 					(unit 1)
@@ -2664,7 +2664,7 @@
 			)
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H2")
 					(unit 1)
@@ -2762,7 +2762,7 @@
 			(uuid "947611bf-0241-440f-80a6-bd8404847e30")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "J1")
 					(unit 1)
@@ -2844,7 +2844,7 @@
 			(uuid "11117e2a-94c5-4326-99c4-ad9b7b9f6556")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "BZ1")
 					(unit 1)
@@ -2924,7 +2924,7 @@
 			(uuid "7e8fb959-6dfa-4d42-99d6-f3a18d75bc42")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW1")
 					(unit 1)
@@ -3066,7 +3066,7 @@
 			(uuid "62bea84a-d86a-4cb5-8f88-5038c73b7b3a")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "U1")
 					(unit 1)
@@ -3142,7 +3142,7 @@
 			)
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H3")
 					(unit 1)
@@ -3222,7 +3222,7 @@
 			(uuid "f8fc9311-e6d0-4360-bc2a-21d0e8acbb68")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW4")
 					(unit 1)
@@ -3300,7 +3300,7 @@
 			(uuid "4845aaf3-f9dc-41ab-8b6e-7338dbc9ce0b")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR07")
 					(unit 1)
@@ -3376,7 +3376,7 @@
 			)
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H1")
 					(unit 1)
@@ -3454,7 +3454,7 @@
 			(uuid "a4ae02a5-6dfb-4f2b-95c8-5442aabc7510")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR01")
 					(unit 1)
@@ -3532,7 +3532,7 @@
 			(uuid "5ed3b8b6-2e35-412a-b6cb-fda093845ca7")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR02")
 					(unit 1)
@@ -3612,7 +3612,7 @@
 			(uuid "739db7af-b7be-479f-9ee9-5b191a01897f")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW3")
 					(unit 1)
@@ -3688,7 +3688,7 @@
 			)
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H4")
 					(unit 1)
@@ -3766,7 +3766,7 @@
 			(uuid "d0dee364-de72-40d8-b95a-62d95b4dfeb3")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR08")
 					(unit 1)
@@ -3846,7 +3846,7 @@
 			(uuid "d2f25c49-65c0-41a7-be5b-226fb570e5e5")
 		)
 		(instances
-			(project "beep beep"
+			(project "Beep Beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW2")
 					(unit 1)

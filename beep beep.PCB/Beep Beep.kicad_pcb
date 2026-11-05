@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/HP/Documents/Beep Beep/beep beep CAD/beep beep/beep beep CAD/")
+			(outputdirectory "./")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
@@ -152,7 +152,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/cfb988e2-f4aa-4183-a233-ca7e7fd8efc2")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -268,7 +268,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/bda52c04-2add-4430-a2b0-e1fd5650c51f")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -384,7 +384,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/a054048a-a656-40ef-ab92-89024cd9a35c")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -500,7 +500,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/3ef7852f-8e01-4d18-b3f9-924d1ea9eee7")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -607,7 +607,7 @@
 		)
 		(path "/92962b6f-9368-48c6-87c7-69e36539ae3d")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -839,7 +839,7 @@
 				(xyz 0.9 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "C:/Users/HP/Downloads/Kailh Polia.step"
@@ -850,7 +850,7 @@
 				(xyz 0.9 1 0.7)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -910,7 +910,7 @@
 		)
 		(path "/cc62c9f5-2dc5-47e4-a527-ad91d3a8e817")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1153,7 +1153,7 @@
 				(xyz 0.9 1 0.7)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -1213,7 +1213,7 @@
 		)
 		(path "/aca0f0f4-8276-4d7c-ab2c-9c6b7567bc97")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1445,7 +1445,7 @@
 				(xyz 0.9 1 0.7)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz -0 -0 90)
 			)
 		)
 		(model "C:/Users/HP/Downloads/Kailh Polia.step"
@@ -1456,7 +1456,7 @@
 				(xyz 0.9 1 0.7)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -1516,7 +1516,7 @@
 		)
 		(path "/dca16629-2c3b-4ab9-a857-1c2ee49d736c")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1759,7 +1759,7 @@
 				(xyz 0.9 1 0.7)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -1821,7 +1821,7 @@
 		)
 		(path "/9aaa14db-559b-4952-ae14-ee0ede7596cb")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2350,7 +2350,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
@@ -2408,7 +2408,7 @@
 				(xyz 1 1.2 1)
 			)
 			(rotate
-				(xyz -90 0 90)
+				(xyz -90 -0 90)
 			)
 		)
 		(model "C:/Users/HP/Downloads/seeed-studio-xiao-esp32-c3-1.snapshot.8/Seeed Studio XIAO-ESP32-C3.step"
@@ -2419,7 +2419,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2493,7 +2493,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/5e8e0615-c8a7-41d1-a47c-fa029680e4fb")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2826,7 +2826,7 @@
 		(property ki_fp_filters "*Buzzer*")
 		(path "/712cffa4-c63e-4ec3-a68b-6443a7c9dc05")
 		(sheetname "/")
-		(sheetfile "beep beep.kicad_sch")
+		(sheetfile "Beep Beep.kicad_sch")
 		(units
 			(unit
 				(name "A")
