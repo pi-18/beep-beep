@@ -1,56 +1,87 @@
 
 # Beep-Beep
- beep beep is a hardware alarm device that was done under stardance hackclub program. It is under the mission BLARE where this project was carried out. The initials on it (pi) refers to myself and is my nick name. I made it pink since i think pink colored things are pretty. if the alarm is pretty enough i will obey the sound in the morning. lol
-# components used 
-* XIAO ESP 32-C3 microcontroller (can be found at seeed website)
-* buzzer
-* switch buttons (specifically 4) - got it from grab CAD. (kalia polih buttons)
-* has four mounting holes at the corner. 
-* TFT display
-# .
-**** softwares used
+ beep beep is a hardware alarm device that was done under stardance hackclub program. This alarm is done using the guide of BLARE alarm mission in stardance and got designed with pink and white colors and have an initial of pi on the case. 
+
+# Features 
+
+* Digital display
+* control - has four switch buttons
+
+# softwares used
   
  * kiCAD - for designing the pcb and schematic layout for the circuit board to work
   
 * onshape - for designing the case for the alarm
 
-# beep beep project case 
+<table >
+ 
+ # beep beep project case 
 
-  <img width="1099" height="537" alt="Screenshot 2026-10-31 001146" src="https://github.com/user-attachments/assets/cf062047-4596-4e7c-a2aa-a72b9d3602e1" />
+<tr>
+ 
+<td>
+<img width="721" height="459" alt="Screenshot 2026-11-04 174514" src="https://github.com/user-attachments/assets/ec7a7b5e-bc69-4896-af6c-fdde812b7a82" />
+</td>
 
+  <td>
+  <img width="543" height="448" alt="Screenshot 2026-11-05 090134" src="https://github.com/user-attachments/assets/95035c82-b74c-45eb-8d1f-8c1c58cd56a5" />
+</td>
+
+</tr>
+
+</table>
+
+<table>
+ 
   # beep beep KiCAD schematic design
-
+<tr>
   <img width="877" height="452" alt="Screenshot 2026-11-02 224631" src="https://github.com/user-attachments/assets/f01d4be4-366e-452f-96e3-981e4561a225" />
+</tr>
+</table>
 
   # beep beep KiCAD PCB design
-
+  
+  <table>
+<tr>
   <img width="912" height="503" alt="Screenshot 2026-11-03 011415" src="https://github.com/user-attachments/assets/4e333c0d-3ab1-47a0-8d68-9f12d8c22f60" />
-
+</tr>
+  </table>
+  
+  <table>
+   
  # a 3d view of the PCB 
- 
-  <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" />
+ <tr>
+   <td> <img width="1219" height="638" alt="Screenshot 2026-10-09 122716" src="https://github.com/user-attachments/assets/d8c720d7-e4a7-4bc4-b19c-5a8f5fa06f15" /> </td>
+
+ <td> <img width="1068" height="602" alt="beep beep 3d view" src="https://github.com/user-attachments/assets/11ef3907-c75b-4cfe-a6ad-fff98429732d" /> </td>
+</tr>
+</table>
 
   # BOM
 
-  * This section shows what parts i used for the beep beep alarm project.
-  [beep beep BOM.csv](https://github.com/user-attachments/files/34293268/beep.beep.BOM.csv)
+  This section shows what parts i used for the beep beep alarm project.
 
+ // [beep beep KiCAD..xlsx](https://github.com/user-attachments/files/34412271/beep.beep.KiCAD.xlsx)
+ // [beep beep components..xlsx](https://github.com/user-attachments/files/34412295/beep.beep.components.xlsx)
 
-  "Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"BZ1","1","Buzzer","","","","","${EXCLUDE_FROM_POS_FILES}","Buzzer_Beeper:Buzzer_12x9.5RM7.6",""
-"J1","1","Conn_01x08_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical",""
-"SW1,SW2,SW3,SW4","4","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
-"U1","1","XIAO-ESP32-C3-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Seeed Studio XIAO Series Library:XIAO-ESP32-C3-DIP",""
+* 1x custom made circuit board
+* 1x XIAO ESP32-C3-SMD micro controller
+* 1x buzzer
+* 4x keyboard switches
+* 1x 8 pin connector
+* 4x mounting holes on the circuit board
+* 1x 2.25in TFT display
+* custom case
 
-
+<table>
+ 
   # The final clock look 
+<tr>
+  
+<img width="875" height="486" alt="Screenshot 2026-11-05 090342" src="https://github.com/user-attachments/assets/3f41b72c-3088-470b-8222-b4e99b125b4d" />
 
-  <img width="815" height="452" alt="Screenshot 2026-11-02 230343" src="https://github.com/user-attachments/assets/d2c7af92-9b4e-4e7d-a22e-cafd4c62da84" />
-
-  <img width="814" height="448" alt="Screenshot 2026-11-03 000722" src="https://github.com/user-attachments/assets/a3e8d834-f82a-405a-ba9c-2f3685d9b6c9" />
-
-
-
+</tr>
+</table>
 
 
 
