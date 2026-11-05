@@ -20,10 +20,12 @@
 <tr>
  
 <td>
-  <img width="538" height="312" alt="Screenshot 2026-11-03 080142" src="https://github.com/user-attachments/assets/e9075b57-1555-46b2-9a3c-1bd9f91c733e" /> </td>
+<img width="721" height="459" alt="Screenshot 2026-11-04 174514" src="https://github.com/user-attachments/assets/ec7a7b5e-bc69-4896-af6c-fdde812b7a82" />
+</td>
 
   <td>
-  <img width="413" height="353" alt="Screenshot 2026-11-03 080201" src="https://github.com/user-attachments/assets/996fc40d-7975-42af-94d2-2497b5aad4fc" />  </td>
+  <img width="543" height="448" alt="Screenshot 2026-11-05 090134" src="https://github.com/user-attachments/assets/95035c82-b74c-45eb-8d1f-8c1c58cd56a5" />
+</td>
 
 </tr>
 
@@ -73,7 +75,7 @@
   # The final clock look 
 <tr>
   
-  <img width="814" height="448" alt="Screenshot 2026-11-03 000722" src="https://github.com/user-attachments/assets/a3e8d834-f82a-405a-ba9c-2f3685d9b6c9" />
+<img width="875" height="486" alt="Screenshot 2026-11-05 090342" src="https://github.com/user-attachments/assets/3f41b72c-3088-470b-8222-b4e99b125b4d" />
 
 </tr>
 </table>
