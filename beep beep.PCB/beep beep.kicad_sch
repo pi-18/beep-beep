@@ -1603,30 +1603,30 @@
 		)
 	)
 	(junction
-		(at -610.87 49.53)
+		(at 87.63 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51374882-b510-403b-88ec-a9ab5a66006c")
 	)
 	(junction
-		(at -610.87 33.02)
+		(at 87.63 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54c43bc2-5d98-4f91-a12d-9460c7b784d5")
 	)
 	(junction
-		(at -610.87 66.04)
+		(at 87.63 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bd1cda02-907b-4ecb-bd4a-8d8d327ec3a1")
 	)
 	(no_connect
-		(at -521.97 27.94)
+		(at 176.53 85.09)
 		(uuid "e7da6fd1-6fca-4243-b77f-6f2a3874f986")
 	)
 	(wire
 		(pts
-			(xy -495.3 33.02) (xy -488.95 33.02)
+			(xy 203.2 90.17) (xy 209.55 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1636,7 +1636,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 22.86) (xy -481.33 22.86)
+			(xy 203.2 80.01) (xy 217.17 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1646,7 +1646,7 @@
 	)
 	(wire
 		(pts
-			(xy -541.02 1.27) (xy -535.94 1.27)
+			(xy 157.48 58.42) (xy 162.56 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1656,7 +1656,7 @@
 	)
 	(wire
 		(pts
-			(xy -585.47 33.02) (xy -576.58 33.02)
+			(xy 113.03 90.17) (xy 121.92 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1666,7 +1666,7 @@
 	)
 	(wire
 		(pts
-			(xy -563.88 39.37) (xy -570.23 39.37)
+			(xy 134.62 96.52) (xy 128.27 96.52)
 		)
 		(stroke
 			(width 0)
@@ -1676,7 +1676,7 @@
 	)
 	(wire
 		(pts
-			(xy -509.27 30.48) (xy -509.27 35.56)
+			(xy 189.23 87.63) (xy 189.23 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1686,7 +1686,7 @@
 	)
 	(wire
 		(pts
-			(xy -575.31 35.56) (xy -575.31 49.53)
+			(xy 123.19 92.71) (xy 123.19 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1696,7 +1696,7 @@
 	)
 	(wire
 		(pts
-			(xy -541.02 15.24) (xy -541.02 1.27)
+			(xy 157.48 72.39) (xy 157.48 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1706,7 +1706,7 @@
 	)
 	(wire
 		(pts
-			(xy -521.97 43.18) (xy -516.89 43.18)
+			(xy 176.53 100.33) (xy 181.61 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1716,7 +1716,7 @@
 	)
 	(wire
 		(pts
-			(xy -585.47 19.05) (xy -575.31 19.05)
+			(xy 113.03 76.2) (xy 123.19 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1726,7 +1726,7 @@
 	)
 	(wire
 		(pts
-			(xy -585.47 49.53) (xy -575.31 49.53)
+			(xy 113.03 106.68) (xy 123.19 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1736,7 +1736,7 @@
 	)
 	(wire
 		(pts
-			(xy -541.02 59.69) (xy -541.02 69.85)
+			(xy 157.48 116.84) (xy 157.48 127)
 		)
 		(stroke
 			(width 0)
@@ -1746,7 +1746,7 @@
 	)
 	(wire
 		(pts
-			(xy -567.69 46.99) (xy -563.88 46.99)
+			(xy 130.81 104.14) (xy 134.62 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1756,7 +1756,7 @@
 	)
 	(wire
 		(pts
-			(xy -521.97 35.56) (xy -509.27 35.56)
+			(xy 176.53 92.71) (xy 189.23 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1766,7 +1766,7 @@
 	)
 	(wire
 		(pts
-			(xy -610.87 66.04) (xy -595.63 66.04)
+			(xy 87.63 123.19) (xy 102.87 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1776,7 +1776,7 @@
 	)
 	(wire
 		(pts
-			(xy -610.87 33.02) (xy -595.63 33.02)
+			(xy 87.63 90.17) (xy 102.87 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1786,7 +1786,7 @@
 	)
 	(wire
 		(pts
-			(xy -521.97 50.8) (xy -501.65 50.8)
+			(xy 176.53 107.95) (xy 196.85 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1796,7 +1796,7 @@
 	)
 	(wire
 		(pts
-			(xy -610.87 66.04) (xy -610.87 74.93)
+			(xy 87.63 123.19) (xy 87.63 132.08)
 		)
 		(stroke
 			(width 0)
@@ -1806,7 +1806,7 @@
 	)
 	(wire
 		(pts
-			(xy -595.63 19.05) (xy -610.87 19.05)
+			(xy 102.87 76.2) (xy 87.63 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1816,7 +1816,7 @@
 	)
 	(wire
 		(pts
-			(xy -505.46 55.88) (xy -505.46 59.69)
+			(xy 193.04 113.03) (xy 193.04 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1826,7 +1826,7 @@
 	)
 	(wire
 		(pts
-			(xy -595.63 49.53) (xy -610.87 49.53)
+			(xy 102.87 106.68) (xy 87.63 106.68)
 		)
 		(stroke
 			(width 0)
@@ -1836,7 +1836,7 @@
 	)
 	(wire
 		(pts
-			(xy -519.43 31.75) (xy -519.43 29.21)
+			(xy 179.07 88.9) (xy 179.07 86.36)
 		)
 		(stroke
 			(width 0)
@@ -1846,7 +1846,7 @@
 	)
 	(wire
 		(pts
-			(xy -535.94 1.27) (xy -535.94 3.81)
+			(xy 162.56 58.42) (xy 162.56 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1856,7 +1856,7 @@
 	)
 	(wire
 		(pts
-			(xy -585.47 66.04) (xy -570.23 66.04)
+			(xy 113.03 123.19) (xy 128.27 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1866,7 +1866,7 @@
 	)
 	(wire
 		(pts
-			(xy -567.69 43.18) (xy -563.88 43.18)
+			(xy 130.81 100.33) (xy 134.62 100.33)
 		)
 		(stroke
 			(width 0)
@@ -1876,7 +1876,7 @@
 	)
 	(wire
 		(pts
-			(xy -490.22 20.32) (xy -490.22 12.7)
+			(xy 208.28 77.47) (xy 208.28 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1886,7 +1886,7 @@
 	)
 	(wire
 		(pts
-			(xy -563.88 35.56) (xy -575.31 35.56)
+			(xy 134.62 92.71) (xy 123.19 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1896,7 +1896,7 @@
 	)
 	(wire
 		(pts
-			(xy -521.97 46.99) (xy -516.89 46.99)
+			(xy 176.53 104.14) (xy 181.61 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1906,7 +1906,7 @@
 	)
 	(wire
 		(pts
-			(xy -610.87 19.05) (xy -610.87 33.02)
+			(xy 87.63 76.2) (xy 87.63 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1916,7 +1916,7 @@
 	)
 	(wire
 		(pts
-			(xy -570.23 39.37) (xy -570.23 66.04)
+			(xy 128.27 96.52) (xy 128.27 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1926,7 +1926,7 @@
 	)
 	(wire
 		(pts
-			(xy -575.31 27.94) (xy -575.31 19.05)
+			(xy 123.19 85.09) (xy 123.19 76.2)
 		)
 		(stroke
 			(width 0)
@@ -1936,7 +1936,7 @@
 	)
 	(wire
 		(pts
-			(xy -576.58 31.75) (xy -576.58 33.02)
+			(xy 121.92 88.9) (xy 121.92 90.17)
 		)
 		(stroke
 			(width 0)
@@ -1946,7 +1946,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 38.1) (xy -488.95 38.1)
+			(xy 203.2 95.25) (xy 209.55 95.25)
 		)
 		(stroke
 			(width 0)
@@ -1956,7 +1956,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 35.56) (xy -488.95 35.56)
+			(xy 203.2 92.71) (xy 209.55 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1966,7 +1966,7 @@
 	)
 	(wire
 		(pts
-			(xy -567.69 50.8) (xy -563.88 50.8)
+			(xy 130.81 107.95) (xy 134.62 107.95)
 		)
 		(stroke
 			(width 0)
@@ -1976,7 +1976,7 @@
 	)
 	(wire
 		(pts
-			(xy -610.87 49.53) (xy -610.87 66.04)
+			(xy 87.63 106.68) (xy 87.63 123.19)
 		)
 		(stroke
 			(width 0)
@@ -1986,7 +1986,7 @@
 	)
 	(wire
 		(pts
-			(xy -487.68 12.7) (xy -487.68 13.97)
+			(xy 210.82 69.85) (xy 210.82 71.12)
 		)
 		(stroke
 			(width 0)
@@ -1996,7 +1996,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 25.4) (xy -488.95 25.4)
+			(xy 203.2 82.55) (xy 209.55 82.55)
 		)
 		(stroke
 			(width 0)
@@ -2006,7 +2006,7 @@
 	)
 	(wire
 		(pts
-			(xy -521.97 31.75) (xy -519.43 31.75)
+			(xy 176.53 88.9) (xy 179.07 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2016,7 +2016,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 30.48) (xy -488.95 30.48)
+			(xy 203.2 87.63) (xy 209.55 87.63)
 		)
 		(stroke
 			(width 0)
@@ -2026,7 +2026,7 @@
 	)
 	(wire
 		(pts
-			(xy -563.88 27.94) (xy -575.31 27.94)
+			(xy 134.62 85.09) (xy 123.19 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2036,7 +2036,7 @@
 	)
 	(wire
 		(pts
-			(xy -563.88 31.75) (xy -576.58 31.75)
+			(xy 134.62 88.9) (xy 121.92 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2046,7 +2046,7 @@
 	)
 	(wire
 		(pts
-			(xy -481.33 19.05) (xy -481.33 22.86)
+			(xy 217.17 76.2) (xy 217.17 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2056,7 +2056,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 27.94) (xy -488.95 27.94)
+			(xy 203.2 85.09) (xy 209.55 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2066,7 +2066,7 @@
 	)
 	(wire
 		(pts
-			(xy -610.87 33.02) (xy -610.87 49.53)
+			(xy 87.63 90.17) (xy 87.63 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2076,7 +2076,7 @@
 	)
 	(wire
 		(pts
-			(xy -495.3 20.32) (xy -490.22 20.32)
+			(xy 203.2 77.47) (xy 208.28 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2086,7 +2086,7 @@
 	)
 	(wire
 		(pts
-			(xy -521.97 39.37) (xy -516.89 39.37)
+			(xy 176.53 96.52) (xy 181.61 96.52)
 		)
 		(stroke
 			(width 0)
@@ -2096,7 +2096,7 @@
 	)
 	(wire
 		(pts
-			(xy -501.65 55.88) (xy -505.46 55.88)
+			(xy 196.85 113.03) (xy 193.04 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2106,7 +2106,7 @@
 	)
 	(wire
 		(pts
-			(xy -490.22 12.7) (xy -487.68 12.7)
+			(xy 208.28 69.85) (xy 210.82 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +2116,7 @@
 	)
 	(wire
 		(pts
-			(xy -519.43 29.21) (xy -515.62 29.21)
+			(xy 179.07 86.36) (xy 182.88 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2125,7 +2125,7 @@
 		(uuid "e8569030-8b8c-45bf-9af4-3fabda00b4fe")
 	)
 	(label "RST"
-		(at -494.03 30.48 0)
+		(at 204.47 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2135,7 +2135,7 @@
 		(uuid "0feb941c-3b90-481f-b331-26e5496d1fc3")
 	)
 	(label "BL"
-		(at -494.03 38.1 0)
+		(at 204.47 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2145,7 +2145,7 @@
 		(uuid "2e6d8f0b-e88c-458f-95ef-21c7ca295b8c")
 	)
 	(label "SDA"
-		(at -520.7 39.37 0)
+		(at 177.8 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2155,7 +2155,7 @@
 		(uuid "3780f40c-0933-4917-92d3-d51f8f79d93f")
 	)
 	(label "CS"
-		(at -494.03 35.56 0)
+		(at 204.47 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2165,7 +2165,7 @@
 		(uuid "3a98e20b-19ff-4404-a811-1dfc6a630f3f")
 	)
 	(label "BL"
-		(at -494.03 38.1 0)
+		(at 204.47 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2175,7 +2175,7 @@
 		(uuid "3b3f5fd7-c838-49c1-97b6-859bdd92ad3e")
 	)
 	(label "CS"
-		(at -567.69 46.99 0)
+		(at 130.81 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2185,7 +2185,7 @@
 		(uuid "479d61e0-4b50-4927-8fb9-e89bc6125c62")
 	)
 	(label "DC"
-		(at -494.03 33.02 0)
+		(at 204.47 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2195,7 +2195,7 @@
 		(uuid "4e55801e-12bb-402a-8904-8e4fff697672")
 	)
 	(label "SDA"
-		(at -494.03 27.94 0)
+		(at 204.47 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2205,7 +2205,7 @@
 		(uuid "5652ca4c-0c4a-4760-b20b-b527ccb0e06f")
 	)
 	(label "SCL"
-		(at -520.7 43.18 0)
+		(at 177.8 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2215,7 +2215,7 @@
 		(uuid "6d70f91e-71d6-48d1-a68f-e4a052380043")
 	)
 	(label "DC"
-		(at -567.69 43.18 0)
+		(at 130.81 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2225,7 +2225,7 @@
 		(uuid "7381d1ce-054e-4b1c-839c-fd66b7c43f18")
 	)
 	(label "RST"
-		(at -520.7 46.99 0)
+		(at 177.8 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2235,7 +2235,7 @@
 		(uuid "94102f4e-6c2d-4f92-a2cf-152b0401b432")
 	)
 	(label "SDA"
-		(at -494.03 27.94 0)
+		(at 204.47 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2245,7 +2245,7 @@
 		(uuid "97c3df1f-8668-44a6-9775-2765a74525c6")
 	)
 	(label "BL"
-		(at -494.03 38.1 0)
+		(at 204.47 95.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2255,7 +2255,7 @@
 		(uuid "9aea8dbd-9272-4a1f-b01e-fd16e56bb211")
 	)
 	(label "CS"
-		(at -494.03 35.56 0)
+		(at 204.47 92.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2265,7 +2265,7 @@
 		(uuid "b9bc2c5f-4b3d-47e4-92c5-d6160e0fdbf9")
 	)
 	(label "BL"
-		(at -567.69 50.8 0)
+		(at 130.81 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2275,7 +2275,7 @@
 		(uuid "bc258bde-960a-4479-b9cb-9c8a5586d652")
 	)
 	(label "SCL"
-		(at -494.03 25.4 0)
+		(at 204.47 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2286,7 +2286,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -505.46 59.69 0)
+		(at 193.04 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2297,7 +2297,7 @@
 		(fields_autoplaced yes)
 		(uuid "1031fc52-4c46-4ba8-b195-dd20699f278e")
 		(property "Reference" "#PWR06"
-			(at -505.46 66.04 0)
+			(at 193.04 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2308,7 +2308,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -505.46 64.77 0)
+			(at 193.04 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2318,7 +2318,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -505.46 59.69 0)
+			(at 193.04 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2329,7 +2329,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -505.46 59.69 0)
+			(at 193.04 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2340,7 +2340,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -505.46 59.69 0)
+			(at 193.04 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2354,7 +2354,7 @@
 			(uuid "dc6ade19-2e50-49b5-922f-5ced3b86ccd1")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR06")
 					(unit 1)
@@ -2364,7 +2364,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -515.62 29.21 0)
+		(at 182.88 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2375,7 +2375,7 @@
 		(fields_autoplaced yes)
 		(uuid "113a1f34-aa22-4711-967b-bffbbb268e8c")
 		(property "Reference" "#PWR04"
-			(at -515.62 35.56 0)
+			(at 182.88 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2386,7 +2386,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -515.62 34.29 0)
+			(at 182.88 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2396,7 +2396,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -515.62 29.21 0)
+			(at 182.88 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2407,7 +2407,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -515.62 29.21 0)
+			(at 182.88 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2418,7 +2418,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -515.62 29.21 0)
+			(at 182.88 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2432,7 +2432,7 @@
 			(uuid "16a06fb1-233d-4f9e-b9ff-63303747398b")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR04")
 					(unit 1)
@@ -2442,7 +2442,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at -509.27 30.48 0)
+		(at 189.23 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2453,7 +2453,7 @@
 		(fields_autoplaced yes)
 		(uuid "2d220013-e69a-4f71-82fc-5c65cc078ee3")
 		(property "Reference" "#PWR05"
-			(at -509.27 34.29 0)
+			(at 189.23 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2464,7 +2464,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at -509.27 25.4 0)
+			(at 189.23 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2474,7 +2474,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -509.27 30.48 0)
+			(at 189.23 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2485,7 +2485,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -509.27 30.48 0)
+			(at 189.23 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2496,7 +2496,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at -509.27 30.48 0)
+			(at 189.23 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2510,7 +2510,7 @@
 			(uuid "76d60cd9-d347-4539-aa4e-77c09d0bde15")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR05")
 					(unit 1)
@@ -2520,7 +2520,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -541.02 69.85 0)
+		(at 157.48 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2531,7 +2531,7 @@
 		(fields_autoplaced yes)
 		(uuid "38a1aeac-736c-4078-8ee1-432b2caa9a98")
 		(property "Reference" "#PWR03"
-			(at -541.02 76.2 0)
+			(at 157.48 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2542,7 +2542,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -541.02 74.93 0)
+			(at 157.48 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2552,7 +2552,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -541.02 69.85 0)
+			(at 157.48 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2563,7 +2563,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -541.02 69.85 0)
+			(at 157.48 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2574,7 +2574,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -541.02 69.85 0)
+			(at 157.48 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2588,7 +2588,7 @@
 			(uuid "8adf0ad2-679a-40a1-9b82-249f84b767e5")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR03")
 					(unit 1)
@@ -2598,7 +2598,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at -469.9 29.21 0)
+		(at 228.6 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2609,7 +2609,7 @@
 		(fields_autoplaced yes)
 		(uuid "3ef7852f-8e01-4d18-b3f9-924d1ea9eee7")
 		(property "Reference" "H2"
-			(at -467.36 27.9399 0)
+			(at 231.14 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2620,7 +2620,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at -467.36 30.4799 0)
+			(at 231.14 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2631,7 +2631,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at -469.9 29.21 0)
+			(at 228.6 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2642,7 +2642,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -469.9 29.21 0)
+			(at 228.6 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2653,7 +2653,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at -469.9 29.21 0)
+			(at 228.6 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2664,7 +2664,7 @@
 			)
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H2")
 					(unit 1)
@@ -2674,7 +2674,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Pin")
-		(at -500.38 27.94 0)
+		(at 198.12 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2685,7 +2685,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e8e0615-c8a7-41d1-a47c-fa029680e4fb")
 		(property "Reference" "J1"
-			(at -499.745 15.24 0)
+			(at 198.755 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2695,7 +2695,7 @@
 			)
 		)
 		(property "Value" "Conn_01x08_Pin"
-			(at -499.745 17.78 0)
+			(at 198.755 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2705,7 +2705,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
-			(at -500.38 27.94 0)
+			(at 198.12 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2716,7 +2716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -500.38 27.94 0)
+			(at 198.12 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2727,7 +2727,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at -500.38 27.94 0)
+			(at 198.12 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2762,7 +2762,7 @@
 			(uuid "947611bf-0241-440f-80a6-bd8404847e30")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "J1")
 					(unit 1)
@@ -2772,7 +2772,7 @@
 	)
 	(symbol
 		(lib_id "Device:Buzzer")
-		(at -499.11 53.34 0)
+		(at 199.39 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2783,7 +2783,7 @@
 		(fields_autoplaced yes)
 		(uuid "712cffa4-c63e-4ec3-a68b-6443a7c9dc05")
 		(property "Reference" "BZ1"
-			(at -494.03 52.0699 0)
+			(at 204.47 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2794,7 +2794,7 @@
 			)
 		)
 		(property "Value" "Buzzer"
-			(at -494.03 54.6099 0)
+			(at 204.47 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2805,7 +2805,7 @@
 			)
 		)
 		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
-			(at -499.745 50.8 90)
+			(at 198.755 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2816,7 +2816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -499.745 50.8 90)
+			(at 198.755 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2827,7 +2827,7 @@
 			)
 		)
 		(property "Description" "Buzzer, polarized"
-			(at -499.11 53.34 0)
+			(at 199.39 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2844,7 +2844,7 @@
 			(uuid "11117e2a-94c5-4326-99c4-ad9b7b9f6556")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "BZ1")
 					(unit 1)
@@ -2854,7 +2854,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at -590.55 66.04 0)
+		(at 107.95 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2865,7 +2865,7 @@
 		(fields_autoplaced yes)
 		(uuid "92962b6f-9368-48c6-87c7-69e36539ae3d")
 		(property "Reference" "SW1"
-			(at -590.55 58.42 0)
+			(at 107.95 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2875,7 +2875,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -590.55 60.96 0)
+			(at 107.95 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2885,7 +2885,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at -590.55 60.96 0)
+			(at 107.95 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2896,7 +2896,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -590.55 60.96 0)
+			(at 107.95 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2907,7 +2907,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at -590.55 66.04 0)
+			(at 107.95 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2924,7 +2924,7 @@
 			(uuid "7e8fb959-6dfa-4d42-99d6-f3a18d75bc42")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW1")
 					(unit 1)
@@ -2934,7 +2934,7 @@
 	)
 	(symbol
 		(lib_id "Seeed_Studio_XIAO_Series:XIAO-ESP32-C3-SMD")
-		(at -542.29 35.56 0)
+		(at 156.21 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2945,7 +2945,7 @@
 		(fields_autoplaced yes)
 		(uuid "9aaa14db-559b-4952-ae14-ee0ede7596cb")
 		(property "Reference" "U1"
-			(at -538.8767 59.69 0)
+			(at 159.6233 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2956,7 +2956,7 @@
 			)
 		)
 		(property "Value" "XIAO-ESP32-C3-SMD"
-			(at -538.8767 62.23 0)
+			(at 159.6233 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2967,7 +2967,7 @@
 			)
 		)
 		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-ESP32-C3-DIP"
-			(at -580.898 59.944 0)
+			(at 117.602 117.094 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2978,7 +2978,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -551.18 30.48 0)
+			(at 147.32 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2989,7 +2989,7 @@
 			)
 		)
 		(property "Description" ""
-			(at -542.29 35.56 0)
+			(at 156.21 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3066,7 +3066,7 @@
 			(uuid "62bea84a-d86a-4cb5-8f88-5038c73b7b3a")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "U1")
 					(unit 1)
@@ -3076,7 +3076,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at -469.9 40.64 0)
+		(at 228.6 97.79 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3087,7 +3087,7 @@
 		(fields_autoplaced yes)
 		(uuid "a054048a-a656-40ef-ab92-89024cd9a35c")
 		(property "Reference" "H3"
-			(at -467.36 39.3699 0)
+			(at 231.14 96.5199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3098,7 +3098,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at -467.36 41.9099 0)
+			(at 231.14 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3109,7 +3109,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at -469.9 40.64 0)
+			(at 228.6 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3120,7 +3120,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -469.9 40.64 0)
+			(at 228.6 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3131,7 +3131,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at -469.9 40.64 0)
+			(at 228.6 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3142,7 +3142,7 @@
 			)
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H3")
 					(unit 1)
@@ -3152,7 +3152,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at -590.55 19.05 0)
+		(at 107.95 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3163,7 +3163,7 @@
 		(fields_autoplaced yes)
 		(uuid "aca0f0f4-8276-4d7c-ab2c-9c6b7567bc97")
 		(property "Reference" "SW4"
-			(at -590.55 11.43 0)
+			(at 107.95 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3173,7 +3173,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -590.55 13.97 0)
+			(at 107.95 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3183,7 +3183,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at -590.55 13.97 0)
+			(at 107.95 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3194,7 +3194,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -590.55 13.97 0)
+			(at 107.95 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3205,7 +3205,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at -590.55 19.05 0)
+			(at 107.95 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3222,7 +3222,7 @@
 			(uuid "f8fc9311-e6d0-4360-bc2a-21d0e8acbb68")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW4")
 					(unit 1)
@@ -3232,7 +3232,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -487.68 13.97 0)
+		(at 210.82 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3243,7 +3243,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae535660-f194-4701-89be-0a525d4d1f8e")
 		(property "Reference" "#PWR07"
-			(at -487.68 20.32 0)
+			(at 210.82 77.47 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3254,7 +3254,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -487.68 19.05 0)
+			(at 210.82 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3264,7 +3264,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -487.68 13.97 0)
+			(at 210.82 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3275,7 +3275,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -487.68 13.97 0)
+			(at 210.82 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3286,7 +3286,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -487.68 13.97 0)
+			(at 210.82 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3300,7 +3300,7 @@
 			(uuid "4845aaf3-f9dc-41ab-8b6e-7338dbc9ce0b")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR07")
 					(unit 1)
@@ -3310,7 +3310,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at -469.9 17.78 0)
+		(at 228.6 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3321,7 +3321,7 @@
 		(fields_autoplaced yes)
 		(uuid "bda52c04-2add-4430-a2b0-e1fd5650c51f")
 		(property "Reference" "H1"
-			(at -467.36 16.5099 0)
+			(at 231.14 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3332,7 +3332,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at -467.36 19.0499 0)
+			(at 231.14 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3343,7 +3343,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at -469.9 17.78 0)
+			(at 228.6 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3354,7 +3354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -469.9 17.78 0)
+			(at 228.6 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3365,7 +3365,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at -469.9 17.78 0)
+			(at 228.6 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3376,7 +3376,7 @@
 			)
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H1")
 					(unit 1)
@@ -3386,7 +3386,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -610.87 74.93 0)
+		(at 87.63 132.08 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3397,7 +3397,7 @@
 		(fields_autoplaced yes)
 		(uuid "c382c4c2-aa27-48d2-a16e-8ed6f83ec826")
 		(property "Reference" "#PWR01"
-			(at -610.87 81.28 0)
+			(at 87.63 138.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3408,7 +3408,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -610.87 80.01 0)
+			(at 87.63 137.16 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3418,7 +3418,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -610.87 74.93 0)
+			(at 87.63 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3429,7 +3429,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -610.87 74.93 0)
+			(at 87.63 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3440,7 +3440,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -610.87 74.93 0)
+			(at 87.63 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3454,7 +3454,7 @@
 			(uuid "a4ae02a5-6dfb-4f2b-95c8-5442aabc7510")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR01")
 					(unit 1)
@@ -3464,7 +3464,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at -535.94 3.81 0)
+		(at 162.56 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3475,7 +3475,7 @@
 		(fields_autoplaced yes)
 		(uuid "cbaf7c9f-83b1-4f57-9a6e-4ba39a851cf7")
 		(property "Reference" "#PWR02"
-			(at -535.94 10.16 0)
+			(at 162.56 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3486,7 +3486,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at -535.94 8.89 0)
+			(at 162.56 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3496,7 +3496,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -535.94 3.81 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3507,7 +3507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -535.94 3.81 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3518,7 +3518,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at -535.94 3.81 0)
+			(at 162.56 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3532,7 +3532,7 @@
 			(uuid "5ed3b8b6-2e35-412a-b6cb-fda093845ca7")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR02")
 					(unit 1)
@@ -3542,7 +3542,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at -590.55 33.02 0)
+		(at 107.95 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3553,7 +3553,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc62c9f5-2dc5-47e4-a527-ad91d3a8e817")
 		(property "Reference" "SW3"
-			(at -590.55 25.4 0)
+			(at 107.95 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3563,7 +3563,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -590.55 27.94 0)
+			(at 107.95 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3573,7 +3573,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at -590.55 27.94 0)
+			(at 107.95 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3584,7 +3584,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -590.55 27.94 0)
+			(at 107.95 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3595,7 +3595,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at -590.55 33.02 0)
+			(at 107.95 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3612,7 +3612,7 @@
 			(uuid "739db7af-b7be-479f-9ee9-5b191a01897f")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW3")
 					(unit 1)
@@ -3622,7 +3622,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at -469.9 52.07 0)
+		(at 228.6 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3633,7 +3633,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfb988e2-f4aa-4183-a233-ca7e7fd8efc2")
 		(property "Reference" "H4"
-			(at -467.36 50.7999 0)
+			(at 231.14 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3644,7 +3644,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at -467.36 53.3399 0)
+			(at 231.14 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3655,7 +3655,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at -469.9 52.07 0)
+			(at 228.6 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3666,7 +3666,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -469.9 52.07 0)
+			(at 228.6 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3677,7 +3677,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at -469.9 52.07 0)
+			(at 228.6 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3688,7 +3688,7 @@
 			)
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "H4")
 					(unit 1)
@@ -3698,7 +3698,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at -481.33 19.05 0)
+		(at 217.17 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3709,7 +3709,7 @@
 		(fields_autoplaced yes)
 		(uuid "d39df040-5b7d-4805-8fb3-e4751fe07e20")
 		(property "Reference" "#PWR08"
-			(at -481.33 22.86 0)
+			(at 217.17 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3720,7 +3720,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at -481.33 13.97 0)
+			(at 217.17 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3730,7 +3730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at -481.33 19.05 0)
+			(at 217.17 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3741,7 +3741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -481.33 19.05 0)
+			(at 217.17 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3752,7 +3752,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at -481.33 19.05 0)
+			(at 217.17 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3766,7 +3766,7 @@
 			(uuid "d0dee364-de72-40d8-b95a-62d95b4dfeb3")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "#PWR08")
 					(unit 1)
@@ -3776,7 +3776,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at -590.55 49.53 0)
+		(at 107.95 106.68 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3787,7 +3787,7 @@
 		(fields_autoplaced yes)
 		(uuid "dca16629-2c3b-4ab9-a857-1c2ee49d736c")
 		(property "Reference" "SW2"
-			(at -590.55 41.91 0)
+			(at 107.95 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3797,7 +3797,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at -590.55 44.45 0)
+			(at 107.95 101.6 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3807,7 +3807,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at -590.55 44.45 0)
+			(at 107.95 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3818,7 +3818,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at -590.55 44.45 0)
+			(at 107.95 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3829,7 +3829,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at -590.55 49.53 0)
+			(at 107.95 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3846,7 +3846,7 @@
 			(uuid "d2f25c49-65c0-41a7-be5b-226fb570e5e5")
 		)
 		(instances
-			(project "Beep Beep"
+			(project "beep beep"
 				(path "/8c3b7c28-8938-4a11-a452-2c327e2096fa"
 					(reference "SW2")
 					(unit 1)

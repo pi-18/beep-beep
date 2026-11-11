@@ -1,8 +1,0 @@
-Components,Qty,Specifications,Source Link,,,,,,,,,,
-TFT display,1,ST7789 driver Display screen,https://github.com/destroyer796/BLARE-Alarm-Clock/blob/main/Display/2.25in%20TFT%20Display.step,,,,,,,,,,
-Key Switches,4,Cherry MX Compatible Buttons,https://grabcad.com/library/kailh-polia-switch-cherry-mx-compatible-1,,,,,,,,,,
-XIAO ESP32-C3,1,ESP32-C3 Micro controller,https://grabcad.com/library/seeed-studio-xiao-esp32-c3-1,,,,,,,,,,
-Custom Case ,1,4.213in x 2.901in x 1.535in (L x W x H) Container,,,,,,,,,,,
-Custom PCB,1,90 x 49mm (W x H) Circuit Board,,,,,,,,,,,
-Buzzer,1,12x9 polarized Sound Buzzer,${KICAD10_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_12x9.5RM7.6.step,,,,,,,,,,
-8 pin connector,1,1x08 2.54mm connector/pin header socket,${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.step,,,,,,,,,,
