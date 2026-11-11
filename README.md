@@ -73,6 +73,12 @@
 * 4x mounting holes on the circuit board
 * 1x 2.25in TFT display
 * custom case
+* 8x M3x5x4 heatset inserts
+* 4x M3x8mm screws
+* 4x M3x16mm screws
+* female female jumper wires
+* white DSA keycaps
+* 1N4148 diodes
 
 <table>
  
